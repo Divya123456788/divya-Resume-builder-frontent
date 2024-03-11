@@ -1,0 +1,1 @@
+export const API = "https://resume-builder-amber-omega.vercel.app"
